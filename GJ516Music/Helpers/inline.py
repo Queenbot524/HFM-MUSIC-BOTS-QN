@@ -47,7 +47,7 @@ pm_buttons = [
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", callback_data="GJ516_help")],
+    [InlineKeyboardButton(text="❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", callback_data="EBD_help")],
     [
         InlineKeyboardButton(text="❰𝗖𝗵𝗮𝗻𝗻𝗲𝗹❱", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="❰𝗚𝗿𝗼𝘂𝗽❱", url=config.SUPPORT_CHAT),
@@ -66,7 +66,7 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆", url=f"https://github.com/MrProgrammer72/GJ516Music"),
+        InlineKeyboardButton(text="𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆", url=f"https://t.me/EBD_QN"),
     ],
 ]
 
@@ -75,15 +75,15 @@ helpmenu = [
     [
         InlineKeyboardButton(
             text="𝘽𝙤𝙩𝙪𝙨𝙚𝙧",
-            callback_data="GJ516_cb help",
+            callback_data="EBD_cb help",
         ),
 
-        InlineKeyboardButton(text="𝙎𝙪𝙙𝙤𝙪𝙨𝙚𝙧", callback_data="GJ516_cb sudo"),
+        InlineKeyboardButton(text="𝙎𝙪𝙙𝙤𝙪𝙨𝙚𝙧", callback_data="EBD_cb sudo"),
     ],    
-    [   InlineKeyboardButton(text="⚡ 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 ⚡", url=f"https://github.com/MrProgrammer72/GJ516Music"),
+    [   InlineKeyboardButton(text="⚡ 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 ⚡", url=f"https://t.me/EBD_QN"),
     ],
     [
-        InlineKeyboardButton(text="𝗕𝗮𝗰𝗸", callback_data="GJ516_home"),
+        InlineKeyboardButton(text="𝗕𝗮𝗰𝗸", callback_data="EBD_home"),
         InlineKeyboardButton(text="𝗖𝗹𝗼𝘀𝗲", callback_data="close"),
     ],
 ]
@@ -91,7 +91,7 @@ helpmenu = [
 
 help_back = [
  [
-        InlineKeyboardButton(text="𝗕𝗮𝗰𝗸", callback_data="GJ516_help"),
+        InlineKeyboardButton(text="𝗕𝗮𝗰𝗸", callback_data="EBD_help"),
         InlineKeyboardButton(text="𝗖𝗹𝗼𝘀𝗲", callback_data="close"),
     ],
 ]
