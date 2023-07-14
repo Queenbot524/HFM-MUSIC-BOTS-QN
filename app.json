@@ -1,5 +1,5 @@
 {
-    "name": "GJ516 MUSIC",
+    "name": "EBD MUSIC",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/db8765da6945e3c9333e6.jpg",
     "keywords": [
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/GJ516_DISCUSS_GROUP",
+        "value": "https://t.me/EBD_QN",
         "required": false
       }
     },
