@@ -1,7 +1,7 @@
 {
     "name": "EBD MUSIC",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/db8765da6945e3c9333e6.jpg",
+    "logo": "https://telegra.ph/file/e46637c44102f4f8b1fd3.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "1864894033",
+        "value": "6602512617",
         "required": true
       },
       "SESSION": {
