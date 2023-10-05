@@ -58,7 +58,7 @@ async def GJ516_startup():
     try:
         await app.send_message(
             SUNAME,
-            f"❇ EBD~QN 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 ❇\n\n⎋ 𝙄𝙙 : `{BOT_ID}`\n⎋ 𝙉𝙖𝙢𝙚 : {BOT_NAME}\n⎋ 𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙚 : @{BOT_USERNAME}",
+            f"❇ HFM 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 ❇\n\n⎋ 𝙄𝙙 : `{BOT_ID}`\n⎋ 𝙉𝙖𝙢𝙚 : {BOT_NAME}\n⎋ 𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙚 : @{BOT_USERNAME}",
         )
     except:
         LOGGER.error(
@@ -68,7 +68,7 @@ async def GJ516_startup():
     try:
         await app2.send_message(
             SUNAME,
-            f"❇ EBD~QN 𝗠𝗨𝗦𝗜𝗖 𝗔𝗦𝗦 ❇\n\n⎋ 𝙄𝙙 : `{ASS_ID}`\n⎋ 𝙉𝙖𝙢𝙚 : {ASS_NAME}\n⎋ 𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙚 : @{ASS_USERNAME}",
+            f"❇ HFM 𝗠𝗨𝗦𝗜𝗖 𝗔𝗦𝗦 ❇\n\n⎋ 𝙄𝙙 : `{ASS_ID}`\n⎋ 𝙉𝙖𝙢𝙚 : {ASS_NAME}\n⎋ 𝙐𝙨𝙚𝙧𝙣𝙖𝙢𝙚 : @{ASS_USERNAME}",
         )
     except:
         LOGGER.error(
